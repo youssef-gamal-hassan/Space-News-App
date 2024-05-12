@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "678611757089",
+    "project_id": "space-news-a",
+    "storage_bucket": "space-news-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678611757089:android:f919ee8f388e7b5f519b60",
+        "android_client_info": {
+          "package_name": "com.example.spacenewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678611757089-8hhkahr2th2jdf6un6l6q6ietvfummg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spacenewsapp",
+            "certificate_hash": "ffcbdd04682c95e3ba1a29379c1dd949eded0fcb"
+          }
+        },
+        {
+          "client_id": "678611757089-jdtb5nbh49ban39f3esmrd4gr9cfae9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybMm5PWoJTARz6vbEZPmpDWGK2cXUqNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678611757089-jdtb5nbh49ban39f3esmrd4gr9cfae9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
